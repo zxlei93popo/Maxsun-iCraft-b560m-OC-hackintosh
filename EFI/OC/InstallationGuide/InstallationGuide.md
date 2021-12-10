@@ -2,7 +2,7 @@
 ## __Content__
 * [Before Installation](#Before-Installation)
 * [BIOS Settings](#BIOS-Settings)
-* [Choose 'config.plist'](#Choose-'config.plist')
+* [Choose'config.plist'](#Choose'config.plist')
 * [Other Settings](#Other-Settings)
 ## __Before-Installation__
 ```diff
