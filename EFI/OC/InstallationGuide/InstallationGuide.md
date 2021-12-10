@@ -2,7 +2,7 @@
 ## __Content__
 * [Before Installation](#Before-Installation)
 * [BIOS Settings](#BIOS-Settings)
-* [Choose'config.plist'](#Choose'config.plist')
+* [Choose'config.plist'](#Choose-config.plist)
 * [Other Settings](#Other-Settings)
 ## __Before-Installation__
 ```diff
@@ -115,7 +115,7 @@
 			<key>AppleXcpmCfgLock</key>
 			<false/>
 ```      
-## __Choose'config.plist'__
+## __Choose-config.plist__
 ```diff
 !  Please rename your 'config.plist' file after you choose a specific 'config-XXX.plist' file.
 ```
