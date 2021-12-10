@@ -115,7 +115,7 @@
 			<key>AppleXcpmCfgLock</key>
 			<false/>
 ```      
-## __Choose-'config.plist'__
+## __Choose'config.plist'__
 ```diff
 !  Please rename your 'config.plist' file after you choose a specific 'config-XXX.plist' file.
 ```
