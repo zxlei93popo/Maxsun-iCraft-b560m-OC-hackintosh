@@ -1,6 +1,6 @@
 # __Maxsun-iCraft-b560m-hackintosh__
 ---
-* [Readme(中文版)](./README(中文版).md)
+* [README(中文版)](./README(中文版).md)
 * [Installation Guide](./EFI/OC/InstallationGuide/InstallationGuide.md)
 ---
 ## __DeviceInfo__
